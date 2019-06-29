@@ -1,0 +1,7 @@
+C:\Projects\ReverseWords\UnitTestReverseWords\bin\Debug\UnitTestReverseWords.dll
+C:\Projects\ReverseWords\UnitTestReverseWords\bin\Debug\UnitTestReverseWords.pdb
+C:\Projects\ReverseWords\UnitTestReverseWords\bin\Debug\ReverseWords.exe
+C:\Projects\ReverseWords\UnitTestReverseWords\bin\Debug\ReverseWords.pdb
+C:\Projects\ReverseWords\UnitTestReverseWords\obj\Debug\UnitTestReverseWords.csprojResolveAssemblyReference.cache
+C:\Projects\ReverseWords\UnitTestReverseWords\obj\Debug\UnitTestReverseWords.dll
+C:\Projects\ReverseWords\UnitTestReverseWords\obj\Debug\UnitTestReverseWords.pdb
